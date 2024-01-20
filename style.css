@@ -158,6 +158,7 @@ section{
 /*l'image de zut2*/
 .zut2 img{
     height: 300px;
+    width: 100%;
 }
 
 /*pour tout les div centrer*/
@@ -186,14 +187,9 @@ section{
     text-align: center;
 }
 
-.div31 p{
+.div31> p{
     margin:  20px;
 }
-
-.div31 h4{
-    margin-top: 10px;
-}
-
 
 
 /*pour les trois image*/
